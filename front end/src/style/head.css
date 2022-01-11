@@ -1,0 +1,14 @@
+div .nav-item{
+
+    background-color: rgb(4, 133, 255);
+    font-size: 30px;
+    padding: 10px;
+    
+}
+
+div .nav-item a{
+    
+    color: white;
+}
+
+

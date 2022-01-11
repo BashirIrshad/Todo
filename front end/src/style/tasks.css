@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.btn{
+
+    margin-right:10px;
+}
+#tasks{
+    
+    font-size: 20px;
+    display: inline-block;
+    font-weight: bold
+}
+
+.card-body{
+
+padding: 10px;
+}
+#done{
+    font-size: 20px;
+    color: rgb(0, 28, 151);
+    display: inline-block;
+}
+.card{
+    margin-bottom: 30px;
+}
+.check{
+
+    float: right;
+    position: relative;
+    top: -38px;
+    left: 14px;
+
+}
+
+
+
+#fragment{
+    position: relative;
+}
+
+
+
+.body_p{
+    font-size: 15px;
+    color: tomato;
+    float: right;
+    
+}
