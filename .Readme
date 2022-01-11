@@ -1,0 +1,5 @@
+This is a simple Todo App which perfoms CRUD operations (Create, Read, Update, Delete)
+
+After downloading the code. open the terminal in each of the two folders and type " npm i " to install all the dependencies.
+After that type "npm start" in each of the terminal to start the project. 
+
